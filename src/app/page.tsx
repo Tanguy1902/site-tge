@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Story from "@/components/Story";
+import Geology from "@/components/Geology";
 import WhyChoose from "@/components/WhyChoose";
 import Itinerary from "@/components/Itinerary";
 import EcoCommitment from "@/components/EcoCommitment";
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <About />
       <Story />
+      <Geology />
       <WhyChoose />
       <Itinerary />
       <EcoCommitment />

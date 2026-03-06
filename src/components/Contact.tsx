@@ -200,9 +200,9 @@ export default function Contact() {
                     <MapPin className="w-5 h-5 text-[#0d5494]" />
                   </div>
                   <div>
-                    <p className="font-medium text-[#0d5494]">Départ</p>
+                    <p className="font-medium text-[#0d5494]">Adresse de réservation</p>
                     <p className="text-sm text-gray-500">
-                      {CONTACT_INFO.departure}, {CONTACT_INFO.address}
+                      {CONTACT_INFO.address}
                     </p>
                   </div>
                 </div>
@@ -212,7 +212,7 @@ export default function Contact() {
             {/* CTA banner */}
             <div className="bg-gradient-to-br from-[#327639] to-[#0d5494] rounded-2xl p-8 text-center">
               <p className="text-white text-lg font-bold mb-2">
-                🌍 Voyager autrement, agir durablement
+                Voyager autrement, agir durablement
               </p>
               <p className="text-white/70 text-sm">
                 Rejoignez une aventure humaine, écologique et inoubliable.

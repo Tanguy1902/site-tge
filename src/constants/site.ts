@@ -10,6 +10,7 @@ export const SITE_CONFIG = {
 export const NAV_LINKS = [
   { label: "À propos", href: "#about" },
   { label: "Notre histoire", href: "#story" },
+  { label: "Secrets de la Terre", href: "#geologie" },
   { label: "Programme", href: "#itinerary" },
   { label: "Galerie", href: "#gallery" },
   { label: "Tarifs", href: "#pricing" },
@@ -17,10 +18,10 @@ export const NAV_LINKS = [
 ] as const;
 
 export const CONTACT_INFO = {
-  email: "contact@tsiribihina-green.mg",
-  whatsapp: "+261 38 11 572 92",
-  address: "Antananarivo, Madagascar",
-  departure: "Antananarivo",
+  email: "beberybebery982@gmail.com",
+  contact: "+261 38 11 572 92 / +261 34 74 095 68",
+  whatsapp: "+261 34 74 095 68",
+  address: "ANNAH Voyages ANTSAHAVOLA en face de l'Immeuble ARO.",
   season: "Mai à Novembre (saison sèche)",
 };
 

@@ -11,7 +11,7 @@ export interface PricingPlan {
 export const PRICING_PLANS: PricingPlan[] = [
   {
     name: "Standard",
-    price: "1 200 000",
+    price: "2 300 000",
     priceLabel: "Ar",
     description: "L'essentiel de l'aventure Tsiribihina",
     features: [
@@ -22,12 +22,13 @@ export const PRICING_PLANS: PricingPlan[] = [
       "Matériel de camping",
       "Organisation reboisement",
       "Certificat d'impact",
+      "retour Morondava-Tanà en bus VIP"
     ],
     cta: "Réserver Standard",
   },
   {
     name: "Confort",
-    price: "2 000 000",
+    price: "5 000 000",
     priceLabel: "Ar",
     description: "L'aventure avec tout le confort",
     features: [
@@ -38,6 +39,8 @@ export const PRICING_PLANS: PricingPlan[] = [
       "Photos souvenirs professionnelles",
       "Kit voyageur exclusif",
       "Accès communauté voyageurs",
+      "billet d'avion retour",
+      "toutes préstations en pension complète"
     ],
     isPopular: true,
     cta: "Réserver Confort",

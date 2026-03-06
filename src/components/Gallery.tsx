@@ -7,32 +7,32 @@ import { X, ZoomIn, ChevronLeft, ChevronRight } from "lucide-react";
 
 const GALLERY_IMAGES = [
   {
-    src: "/images/image-2.webp",
-    alt: "Descente du fleuve Tsiribihina en pirogue",
-    caption: "Descente du fleuve",
+    src: "/images/image1.webp",
+    alt: "fleuve Tsiribihina",
+    caption: "fleuve de Tsiribihina",
   },
   {
-    src: "/images/image-3.webp",
+    src: "/images/image2.webp",
     alt: "Paysage naturel le long du Tsiribihina",
     caption: "Paysages du Tsiribihina",
   },
   {
-    src: "/images/image-4.webp",
+    src: "/images/image3.webp",
     alt: "Rencontre avec les communautés locales",
     caption: "Rencontres authentiques",
   },
   {
-    src: "/images/image-5.webp",
+    src: "/images/image4.webp",
     alt: "Faune sauvage de Madagascar",
     caption: "Faune endémique",
   },
   {
-    src: "/images/image-6.webp",
+    src: "/images/image5.webp",
     alt: "Campement au bord du fleuve",
     caption: "Campement en nature",
   },
   {
-    src: "/images/image-7.webp",
+    src: "/images/image6.webp",
     alt: "Action de reboisement écologique",
     caption: "Reboisement & Écologie",
   },
@@ -85,7 +85,7 @@ export default function Gallery() {
               Galerie
             </span>
             <h2 className="mt-3 text-3xl sm:text-4xl font-bold text-[#0d5494]">
-              Moments capturés de l&apos;aventure
+              Un aperçu de nos expéditions
             </h2>
             <div className="mt-4 w-20 h-1 bg-gradient-to-r from-[#327639] to-[#0f7fc1] mx-auto rounded-full" />
             <p className="mt-6 text-gray-500 max-w-2xl mx-auto text-lg">
