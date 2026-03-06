@@ -11,7 +11,7 @@ export default function Hero() {
     <section id="hero" className="relative h-screen min-h-[700px] overflow-hidden">
       {/* Background Image */}
       <Image
-        src="/images/hero.jpg"
+        src="/images/hero2.jpeg"
         alt="Fleuve Tsiribihina Madagascar"
         fill
         className="object-cover"
