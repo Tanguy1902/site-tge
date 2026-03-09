@@ -21,7 +21,7 @@ export const CONTACT_INFO = {
   email: "beberybebery982@gmail.com",
   contact: "+261 38 11 572 92 / +261 34 74 095 68",
   whatsapp: "+261 34 74 095 68",
-  address: "ANNAH Voyages ANTSAHAVOLA en face de l'Immeuble ARO.",
+  address: "Bureau TGE Analakely",
   season: "Mai à Novembre (saison sèche)",
 };
 
